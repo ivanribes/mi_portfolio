@@ -9,3 +9,8 @@ Español
 Valenciano
 Ingles
 
+## Habilidades
+kotlin
+docker
+kubernetes
+
