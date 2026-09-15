@@ -14,3 +14,7 @@ kotlin
 docker
 kubernetes
 
+
+## En que estoy trabajando?
+Actualmente estoy trabajando con recursos y servicios en la nube y en desarrolla>
+
